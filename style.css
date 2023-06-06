@@ -3,7 +3,7 @@ padding: 0;
 }
 
 header {
-background-color: #383d58;
+background-color: #424e61;
 color: white;
 display: flex;
 justify-content: space-around;
@@ -20,7 +20,10 @@ display: inline-block;
 margin: 0 16px;
 font-size: 24px;
 }
+.escola-imagem {
+width: 25%;
 
+}
 
 
 
